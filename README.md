@@ -15,7 +15,7 @@ Let me know if you want me to add other features or make something better.
 Stay Safe, Get Vaccinated, Protect Yourself and Your Loved Ones.
 We will beat SARS-COV-2.
 
- 
+For more information about CoWIN APIs, data availability and how to use, check out this [link](https://apisetu.gov.in/public/marketplace/api/cowin) from the API Setu Website.
 
 ***Disclaimer: The results from the API may be delayed upto 30 minutes (as per the CoWIN API team).
 I do not take any responsibility for incorrect information displayed by the code.
