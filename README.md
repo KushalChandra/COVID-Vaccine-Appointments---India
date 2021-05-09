@@ -1,2 +1,23 @@
 # COVID-Vaccine-Appointments---India
-A quick and easy way to get available vaccine appointments in your state, district and dates of interest.
+A quick and easy way to get available vaccine appointments (18 - 44) in your state, district and dates of interest.
+
+
+Finding appointments for COVID vaccines is far from easy on the CoWIN portal.
+The endless wait for the OTP, the limited slots for 18-44 age group, and the need to choose districts one-by-one make it
+difficult to find slots.
+
+I have tried to solve these problems by make a quick and easy Python Code that you can run on your machine to find
+vaccination slots for you and your family/friends.
+
+You can also change the filter in the appointments function to show appointments for 45+ age group as well.
+
+Let me know if you want me to add other features or make something better.
+
+Stay Safe, Get Vaccinated, Protect Yourself and Your Loved Ones.
+We will beat SARS-COV-2.
+
+
+
+**Disclaimer: The results from the API may be delayed upto 30 minutes (as per the CoWIN API team).
+Disclaimer: I do not take any responsibility for incorrect information displayed by the code.
+Disclaimer: Use my code at your own risk.**
