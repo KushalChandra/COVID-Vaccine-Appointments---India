@@ -19,5 +19,5 @@ We will beat SARS-COV-2.
 
 
 **Disclaimer: The results from the API may be delayed upto 30 minutes (as per the CoWIN API team).
-Disclaimer: I do not take any responsibility for incorrect information displayed by the code.
-Disclaimer: Use my code at your own risk.**
+I do not take any responsibility for incorrect information displayed by the code.
+Use my code at your own risk.**
